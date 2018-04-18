@@ -1,5 +1,5 @@
 {
-  "name": "eslint-no-parameter-e",
+  "name": "eslint-plugin-no-parameter-e",
   "version": "0.0.1",
   "description": "Not allow parameter named `e`",
   "main": "index.js",
