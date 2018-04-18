@@ -12,6 +12,10 @@
   ],
   "author": "othree <othree@gmail.com>",
   "license": "MIT",
+  "files": [
+    "index.js",
+    "rule.js"
+  ],
   "dependencies": {},
   "devDependencies": {
     "babel-eslint": "^8.2.3",
