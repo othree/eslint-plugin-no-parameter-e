@@ -35,5 +35,6 @@ Add plugin and rule:
 
   "rules": {
     "no-parameter-e": 2
+  }
 }
 ```
