@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-parameter-e",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Not allow parameter named `e`",
   "main": "index.js",
   "scripts": {
